@@ -37,9 +37,9 @@
 
 ## Overview
 
-Project4-Certification-Detect-Disaster is a comprehensive framework that leverages machine learning to identify disaster-related tweets, enabling automated social media monitoring and rapid response. The tool integrates data preprocessing, model training, and prediction steps into a seamless pipeline suitable for real-time or batch analysis.
+Detect-Disaster is a comprehensive framework that leverages machine learning to identify disaster-related tweets, enabling automated social media monitoring and rapid response. The tool integrates data preprocessing, model training, and prediction steps into a seamless pipeline suitable for real-time or batch analysis.
 
-**Why Project4-Certification-Detect-Disaster?**
+**Why Detect-Disaster?**
 
 This project aims to simplify disaster detection on social media platforms. The core features include:
 
