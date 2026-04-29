@@ -97,19 +97,7 @@ Build Project4-Certification-Detect-Disaster from the source and install depende
     ❯ cd Project4-Certification-Detect-Disaster
     ```
 
-3. **Install the dependencies:**
 
-echo 'INSERT-INSTALL-COMMAND-HERE'
-
-### Usage
-
-Run the project with:
-
-echo 'INSERT-RUN-COMMAND-HERE'
-
-### Testing
-
-Project4-certification-detect-disaster uses the {__test_framework__} test framework. Run the test suite with:
 
 echo 'INSERT-TEST-COMMAND-HERE'
 
